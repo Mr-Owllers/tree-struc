@@ -7,7 +7,7 @@ keywords = ["structure", "tree", "binary"]
 license = "MIT"
 catogories = ["command-line-utilityies"]
 authors = ["Owlly"]
-repository = "https://gihub.com/mr-owllers/tree-struc"
+repository = "https://github.com/mr-owllers/tree-struc"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
